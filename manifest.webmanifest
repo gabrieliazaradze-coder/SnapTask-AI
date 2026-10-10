@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "SnapTask AI",
+  "short_name": "SnapTask",
+  "description": "Turn ideas into clear, editable action plans.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0e1d",
+  "theme_color": "#101226",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
